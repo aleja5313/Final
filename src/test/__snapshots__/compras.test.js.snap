@@ -1,0 +1,48 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Compras Deberia renderizar correctamente 1`] = `
+<styled.div
+  id="c"
+>
+  <h3>
+    INGREDIENTES
+  </h3>
+  <h1>
+    Risotto de setas vegano
+  </h1>
+  <input
+    id="cex"
+    name=""
+    type="checkbox"
+  />
+  Seleccionar todo / Deseleccionar todo
+  <br />
+  <h4
+    id="resultadof"
+  >
+    Items 
+    0
+  </h4>
+  <h4>
+    Subtotal 
+    0
+     $
+  </h4>
+  <h4>
+    Gastos de Envío 7,00 $
+  </h4>
+  <h2>
+    Total 
+    0.00
+     $
+  </h2>
+  <button
+    onClick={[Function]}
+  >
+    Comprar ingredientes:
+     
+    0.00
+     $
+  </button>
+</styled.div>
+`;

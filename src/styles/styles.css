@@ -1,0 +1,46 @@
+*{
+    margin: 5px;
+}
+#formBasicName{
+    width: 20vw;
+    padding: 7px ;
+    border-radius: 5px;
+    
+}
+
+#formBasicEmail{
+    width: 20vw;
+    padding: 7px ;
+    border-radius: 5px;
+    
+}
+
+#formBasicPassword{
+    width: 20vw;
+    padding: 7px ;
+    border-radius: 5px;
+}
+
+#formBasicRepitPassword{
+    width: 20vw;
+    padding: 7px ;
+    border-radius: 5px; 
+}
+
+Form{
+   margin-left: 40%;
+   padding: 1rem;
+}
+
+.button{
+    padding: 8px 21px;
+    background-color: #6EB82D;
+    border-radius: 5px;
+
+}
+
+.registro{
+    padding: 8px 21px;
+    background-color: #6EB82D;
+    border-radius: 5px;
+}

@@ -1,0 +1,40 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Account Deberia renderizar correctamente 1`] = `
+<div>
+  <table
+    className="table table-dark"
+  >
+    <thead>
+      <tr>
+        <th
+          scope="col"
+        >
+          #
+        </th>
+        <th
+          scope="col"
+        >
+          Nombre
+        </th>
+        <th
+          scope="col"
+        >
+          Correo
+        </th>
+        <th
+          scope="col"
+        >
+          Edad
+        </th>
+        <th
+          scope="col"
+        >
+          Borrar
+        </th>
+      </tr>
+    </thead>
+    <tbody />
+  </table>
+</div>
+`;
